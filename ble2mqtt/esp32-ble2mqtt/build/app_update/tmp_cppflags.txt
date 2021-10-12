@@ -1,0 +1,1 @@
+v0.12.0-5-g6ae729e ble2mqtt v4.3-dev-1197-g8bc19ba89
